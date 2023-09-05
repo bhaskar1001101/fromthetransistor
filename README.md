@@ -1,8 +1,6 @@
 ## From the Transistor to the Web Browser
 
-Hiring is hard, a lot of modern CS education is really bad, and it's hard to find people who understand the modern computer stack from first principles.
-
-Now cleaned up and going to be software only. Closer to being real.
+Trying to understand the modern computer stack.
 
 #### Section 1: Intro: Cheating our way past the transistor -- 0.5 weeks
 - [ ] So about those transistors -- Course overview. Describe how FPGAs are buildable using transistors, and that ICs are just collections of transistors in a nice reliable package. Understand the LUTs and stuff. Talk briefly about the theory of transistors, but all projects must build on each other so we can’t build one.
