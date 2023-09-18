@@ -3,3 +3,8 @@ started reading up on wiki.osdev.org
 this might take me longer than expected
 i'll be keeping logs here on my progress
 ggs
+[ day 2 ] - [ 18 / 09 / 2023 ] - [ 05 : 23 ]
+created a i686 cross-compiler using gnu-utils
+i'll be using it to write a hello world kernel for 32-bit x86
+i want to self-host this someday
+godspeed
