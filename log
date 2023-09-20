@@ -8,3 +8,9 @@ created a i686 cross-compiler using gnu-utils
 i'll be using it to write a hello world kernel for 32-bit x86
 i want to self-host this someday
 godspeed
+[day - 3] - [20 / 09/ 2023 ] - [ 09 : 23 ]
+following the barebones tutorial
+wrote the multiboot sector for GRUB to find the kernel image
+wrote a hello world kernel. vga text 16 bit. was fun.
+will commit later. physical machine not on hand as of now
+to infinity and beyond
