@@ -1,6 +1,6 @@
-binutils-2.41.tar.gz/*
+binutils-2.41.tar.gz
 binutils-2.41/*
 build-binutils/*
 build-gcc/*
-gcc-13.2.0.tar.gz/*
+gcc-13.2.0.tar.gz
 gcc-13.2.0/*
